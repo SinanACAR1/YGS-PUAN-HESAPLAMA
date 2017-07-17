@@ -1,0 +1,17 @@
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\obj\x86\Debug\YGS_hesaplama_programı.Form1.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\obj\x86\Debug\YGS_hesaplama_programı.Properties.Resources.resources
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.csproj.GenerateResource.Cache
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\bin\Debug\YGS hesaplama programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\bin\Debug\YGS hesaplama programı.pdb
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.exe
+C:\Users\Samet\AppData\Local\Temporary Projects\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\YGS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.exe
+C:\Users\Samet\documents\visual studio 2010\Projects\YGS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\bin\Debug\YGS hesaplama programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\bin\Debug\YGS hesaplama programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS_hesaplama_programı.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS_hesaplama_programı.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\YGS-LYS hesaplama programı\YGS hesaplama programı\obj\x86\Debug\YGS hesaplama programı.pdb
